@@ -28,5 +28,5 @@ EnduroSync is a real-time health monitoring system designed for athletes. It cap
 ### Clone the Repo
 
 ```bash
-git clone https://github.com/sunilravulapati/endurosync.git
+git clone https://github.com/sunilravulapati/Endurosync.git
 cd endurosync
